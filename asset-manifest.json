@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RajeshHospitals/static/css/main.547b9051.css",
+    "main.js": "/RajeshHospitals/static/js/main.3e841a29.js",
+    "static/media/slider-img.jpg": "/RajeshHospitals/static/media/slider-img.d6e916a442e6d6ced775.jpg",
+    "static/media/about-img.jpg": "/RajeshHospitals/static/media/about-img.2fbb4970270bbc3d97ce.jpg",
+    "static/media/team3.jpg": "/RajeshHospitals/static/media/team3.6c82ddffae564c18ab5b.jpg",
+    "static/media/team2.jpg": "/RajeshHospitals/static/media/team2.f9918610786750714e97.jpg",
+    "static/media/contact-img.jpg": "/RajeshHospitals/static/media/contact-img.980e5c20d2677ef79603.jpg",
+    "static/media/team1.jpg": "/RajeshHospitals/static/media/team1.23e6914f9c24116cdc41.jpg",
+    "index.html": "/RajeshHospitals/index.html",
+    "main.547b9051.css.map": "/RajeshHospitals/static/css/main.547b9051.css.map",
+    "main.3e841a29.js.map": "/RajeshHospitals/static/js/main.3e841a29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547b9051.css",
+    "static/js/main.3e841a29.js"
+  ]
+}
